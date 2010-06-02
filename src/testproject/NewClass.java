@@ -12,5 +12,11 @@ package testproject;
 public class NewClass extends Main {
     public NewClass() {
         System.out.println("fdsa");
+        System.out.println("fdsa");
+        System.out.println("fdsa");
+        System.out.println("fdsa");
+        System.out.println("fdsa");
+        System.out.println("fdsa");
+        System.out.println("fdsa");
     }
 }
