@@ -13,4 +13,9 @@ public class NewClass extends Main {
     public NewClass() {
         System.out.println("fdsa");
     }
+
+    public String toString() {
+        return "Class extending main";
+    }
+
 }

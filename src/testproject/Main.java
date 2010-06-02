@@ -24,4 +24,8 @@ public class Main {
         // TODO code application logic here
     }
 
+    public String toString() {
+        return "Hello to all";
+    }
+
 }
